@@ -1,0 +1,15 @@
+[submodule "nlw-heat-node"]
+	path = nlw-heat-node
+	url = https://github.com/GuilhermeFigueira/nlw-heat-node
+[submodule "nlw-esports"]
+	path = nlw-esports
+	url = https://github.com/GuilhermeFigueira/nlw-esports
+[submodule "nlw-connect"]
+	path = nlw-connect
+	url = https://github.com/GuilhermeFigueira/nlw-connect
+[submodule "ignitelab-notification"]
+	path = ignitelab-notification
+	url = https://github.com/GuilhermeFigueira/ignitelab-notification
+[submodule "ignitelab-design-system"]
+	path = ignitelab-design-system
+	url = https://github.com/GuilhermeFigueira/ignitelab-design-system
